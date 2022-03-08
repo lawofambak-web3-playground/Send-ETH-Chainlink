@@ -61,6 +61,7 @@ function App() {
             value: ethers.utils.parseEther(ether.toString())
           });
           console.log(`Sent ${ether} ETH to ${address}!`);
+          console.log(tx);
         } catch (error) {
           window.alert(error.message);
         }
