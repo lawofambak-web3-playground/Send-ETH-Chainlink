@@ -1,6 +1,6 @@
 App that allows user to send ETH on Rinkey network that also displays ETH/USD price using Chainlink data price feeds.
 
-Deployed website: 
+Deployed Vercel website: https://send-eth-rinkeby.vercel.app/
 
 Deployed Chainlink contract address on Etherscan: https://rinkeby.etherscan.io/tx/0x0b3a26ebea34c766d61dcda13d36cab270d1e8103f8128b5527d367cb7361040
 
